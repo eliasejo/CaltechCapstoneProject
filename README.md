@@ -1,4 +1,4 @@
-# Caltech: Video Quality Assessment Capstone Project
+# Video Quality Assessment Project
 
 1. Introduction: The purpose of this project is to assess the quality of E-Learning videos available on YouTube. The project involves the use of various techniques and models to analyze different aspects of the videos, including instructor presence, visual aids, and object detection. The project aims to identify key factors that contribute to engaging and effective video content. 
 2. Data Collection: To gather data, a playlist library was utilized to download the E-Learning videos from YouTube. The downloaded videos served as the dataset for further analysis. 
